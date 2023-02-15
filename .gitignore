@@ -51,5 +51,4 @@ hugo.linux
 .ionide
 
 # End of https://www.toptal.com/developers/gitignore/api/hugo,linux,visualstudiocode
-/themes/hugo-tranquilpeak-theme/**/*
-!/themes/hugo-tranquilpeak-theme/.gitrepo
+
