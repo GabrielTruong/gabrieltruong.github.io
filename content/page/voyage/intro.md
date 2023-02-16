@@ -18,4 +18,3 @@ showActions:    false
 
 Avec mon amie Maria-Clara, on s'apprête à partir 3 mois et demi en Asie. Chacun a pris une année de césure avant de reprendre le rythme effréné du travail. 
 Nous commencerons notre voyage par la Corée du Sud le 21 février prochain. 
-

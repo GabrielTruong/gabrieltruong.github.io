@@ -7,7 +7,7 @@ showMeta:       false
 showActions:    false
 ---
 
-Bienvenue ! Moi c'est Gabriel. J'ai créé ce blog pour partager un peu n'importe quoi. Etant donné que c'est la première fois que je fais ça, le site reste incomplet. Pas de quoi s'étonner s'il y'a des bugs ou s'il y a des sections vides. 
+Bienvenue ! Moi c'est Gabriel. J'ai créé ce blog pour partager un peu n'importe quoi. Etant donné que c'est la première fois que je fais ça, le site reste incomplet. Pas de quoi s'étonner s'il y'a des bugs ou s'il y a des sections vides.
 
 ## **Année de césure**
 
@@ -15,9 +15,3 @@ Bienvenue ! Moi c'est Gabriel. J'ai créé ce blog pour partager un peu n'import
 
 ## **Stage de fin d'études**
 J'anticipe tout de même la recherche de mon stage de fin d'études pour Janvier 2024. Spécialisé en Data Science, je suis ouvert à toutes les opportunités dans le domaine. Je compte surtout sur mes camarades actuellement en stage (surtout ceux chez Theodo, Dataiku, BMW...) pour ne pas m'oublier! D'ici là, j'ai l'intention de continuer à me former à l'aide de formations en ligne et divers projets (cf. [mon GitHub](https://github.com/gabrieltruong) et/ou sur ce blog).
-
-
-
-
-
-
