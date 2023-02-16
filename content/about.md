@@ -7,7 +7,7 @@ showMeta:       false
 showActions:    false
 ---
 
-Bienvenue ! Moi c'est Gabriel. J'ai créé ce blog pour partager un peu n'importe quoi. Etant donné que c'est la première fois que je fais ça, le site reste incomplet. Pas de quoi s'étonner s'il y'a des bugs ou s'il y a des sections vides.
+Bienvenue ! Moi c'est Gabriel. J'ai créé ce blog pour partager un peu n'importe quoi. Etant donné que c'est la première fois que je fais ça, le site reste incomplet. Pas de quoi s'étonner s'il y'a des bugs ou s'il y a des sections vides. 
 
 ## **Année de césure**
 
