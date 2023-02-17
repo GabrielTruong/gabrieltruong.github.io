@@ -14,4 +14,3 @@ showMeta:       false
 showActions:    false
 #thumbnailImage: //example.com/image.jpg
 ---
-
