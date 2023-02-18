@@ -12,8 +12,10 @@ categories:
 comments:       false
 showMeta:       false
 showActions:    false
-#thumbnailImage: //example.com/image.jpg
-
+thumbnailImage: https://res.cloudinary.com/di1kjinja/image/upload/v1676711662/bagage.jpg
+autoThumbnailImage : true
+coverImage: https://res.cloudinary.com/di1kjinja/image/upload/v1676711662/bagage.jpg
+thumbnailImagePosition: "left"
 ---
 
 Avec mon amie Maria-Clara, on s'apprête à partir 3 mois et demi en Asie le 21 février prochain. 
