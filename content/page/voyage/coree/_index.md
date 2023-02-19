@@ -15,4 +15,4 @@ showActions:    false
 #thumbnailImage: //example.com/image.jpg
 ---
 
-En route vers le pays des K-Dramas et du poulet frit!
+En route vers le pays des K-Dramas et du poulet frit! Toutes nos aventures en Corée du Sud par ici!
