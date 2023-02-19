@@ -9,9 +9,9 @@ categories:
 #- tag2
 #keywords:
 #- tech
-comments:       false
+comments:       true
 showMeta:       false
-showActions:    false
+showActions:    true
 thumbnailImage: https://res.cloudinary.com/di1kjinja/image/upload/v1676711662/bagage.jpg
 autoThumbnailImage : true
 coverImage: https://res.cloudinary.com/di1kjinja/image/upload/v1676711662/bagage.jpg

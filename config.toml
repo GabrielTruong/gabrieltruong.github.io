@@ -364,7 +364,7 @@ canonifyurls = true
   # --------------
   [params.comment]
     [params.comment.disqus]
-      enable = false
+      enable = true
       shortname = "hugo-tranquilpeak-theme"
     [params.comment.gitalk]
       enable = false
