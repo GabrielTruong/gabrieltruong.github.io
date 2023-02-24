@@ -11,6 +11,7 @@ keywords:
 comments:       false
 showMeta:       false
 showActions:    false
+coverImage: https://res.cloudinary.com/di1kjinja/image/upload/v1677245016/post_1/first_day.jpg
 thumbnailImage: https://res.cloudinary.com/di1kjinja/image/upload/v1677245016/post_1/first_day.jpg
 thumbnailImagePosition: "left"
 
