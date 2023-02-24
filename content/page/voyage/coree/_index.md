@@ -2,11 +2,10 @@
 title: "Corée du Sud"
 date: 2023-02-17T14:42:11+01:00
 categories:
-- category
+- Voyage d'une vie
 - subcategory
 tags:
-- tag1
-- tag2
+- Voyage
 keywords:
 - tech
 comments:       false

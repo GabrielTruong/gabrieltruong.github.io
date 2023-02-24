@@ -3,9 +3,9 @@ title: "A quelques jours du départ !"
 date: 2023-02-16T13:09:21+01:00
 categories:
 - Voyage d'une vie
-- subcategory
-#tags:
-#- tag1
+- Corée
+tags:
+- Voyage
 #- tag2
 #keywords:
 #- tech
