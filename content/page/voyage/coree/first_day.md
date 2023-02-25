@@ -6,6 +6,7 @@ categories:
 - Corée
 tags:
 - Voyage
+- Séoul
 keywords:
 - tech
 comments:       true
