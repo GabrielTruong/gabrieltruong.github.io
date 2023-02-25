@@ -8,9 +8,9 @@ tags:
 - Voyage
 keywords:
 - tech
-comments:       false
+comments:       true
 showMeta:       false
-showActions:    false
+showActions:    true
 coverImage: https://res.cloudinary.com/di1kjinja/image/upload/v1677245016/post_1/first_day.jpg
 thumbnailImage: https://res.cloudinary.com/di1kjinja/image/upload/v1677245016/post_1/first_day.jpg
 thumbnailImagePosition: "left"
