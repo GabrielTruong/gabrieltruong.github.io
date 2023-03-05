@@ -1,5 +1,5 @@
 ---
-title: "Arrivés à Séoul !"
+title: "Séoul - Bien arrivés !"
 date: 2023-02-23T13:57:28+01:00
 categories:
 - Voyage d'une vie

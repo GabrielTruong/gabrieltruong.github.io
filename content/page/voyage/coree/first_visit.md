@@ -1,5 +1,5 @@
 ---
-title: "Premières visites !"
+title: "Séoul - Premières visites !"
 date: 2023-02-25T13:57:28+01:00
 categories:
 - Voyage d'une vie

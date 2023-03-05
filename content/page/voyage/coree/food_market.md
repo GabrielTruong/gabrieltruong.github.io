@@ -1,5 +1,5 @@
 ---
-title: "Manger au Gwangjang market !"
+title: "Séoul - Manger au Gwangjang market !"
 date: 2023-02-28T12:57:28+01:00
 categories:
 - Voyage d'une vie
