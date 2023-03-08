@@ -79,7 +79,7 @@ Nous avons aussi eu l’occasion d’aller dans une maison de thé traditionnell
 *Gâteau au sésame noir pour accompagner le thé*
 
 [Mes skills en vidéo…](https://res.cloudinary.com/di1kjinja/video/upload/v1678263014/Jeonju/serving_tea.mp4)
-*Mes skills en vidéo…*
+
 
 Pour clôturer la journée, nous sommes retournés à *Nomadic Brewery*. 
 
