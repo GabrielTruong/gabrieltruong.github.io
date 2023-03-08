@@ -6,7 +6,7 @@ categories:
 - Corée
 tags:
 - Voyage
-- Séoul
+- Sokcho
 keywords:
 - tech
 comments:       true
