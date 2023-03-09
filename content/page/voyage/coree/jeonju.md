@@ -6,7 +6,7 @@ categories:
 - Corée
 tags:
 - Voyage
-- Séoul
+- Jeonju
 keywords:
 - tech
 comments:       true
