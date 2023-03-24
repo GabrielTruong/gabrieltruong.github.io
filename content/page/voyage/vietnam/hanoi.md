@@ -1,6 +1,6 @@
 ---
 title: "Hanoi - Premiers moments au Vietnam"
-date: 2023-03-2T9:14:20+01:00
+date: 2023-03-24T14:09:35+01:00
 categories:
 - Voyage d'une vie
 - Vietnam
