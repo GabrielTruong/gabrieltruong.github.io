@@ -7,6 +7,7 @@ categories:
 tags:
 - Voyage
 - Tam Coc
+draft: true
 keywords:
 - tech
 comments:       false
