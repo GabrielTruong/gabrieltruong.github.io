@@ -18,7 +18,9 @@ defaultContentLanguage = "fr-fr"
 title = "Le blog de Gab"
 theme = "hugo-tranquilpeak-theme"
 disqusShortname = "lapbeer"
-# googleAnalytics = "UA-123-45"
+googleAnalytics = "G-B8LDZ9GDKV"
+[params.googleAnalytics]
+  async = true
 paginate = 7
 canonifyurls = true
 
