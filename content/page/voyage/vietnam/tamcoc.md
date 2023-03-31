@@ -80,8 +80,8 @@ Après cette visite et malgré le temps nous souhaitons tout de même faire la f
 
 ![https://res.cloudinary.com/di1kjinja/image/upload/v1680165738/tamcoc/boat_view.jpg](https://res.cloudinary.com/di1kjinja/image/upload/v1680165738/tamcoc/boat_view.jpg)
 
-[https://res.cloudinary.com/di1kjinja/video/upload/v1680165741/tamcoc/boat_video.mp4](https://res.cloudinary.com/di1kjinja/video/upload/v1680165741/tamcoc/boat_video.mp4)
-*La vidéo de la balade en barque*
+[**La vidéo de la balade en barque !**](https://res.cloudinary.com/di1kjinja/video/upload/v1680165741/tamcoc/boat_video.mp4)
+
 
 Après cette balade la pluie devient vraiment intense et nous rentrons à notre *homestay* pour y passer la fin d’après-midi et en profiter pour planifier le reste du voyage. Le soir on nous sert à nouveau un repas incroyable. 
 
