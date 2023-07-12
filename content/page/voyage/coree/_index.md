@@ -11,7 +11,9 @@ keywords:
 comments:       false
 showMeta:       false
 showActions:    false
-#thumbnailImage: //example.com/image.jpg
+thumbnailImage: https://res.cloudinary.com/di1kjinja/image/upload/v1677329585/first_visit/seoul_hanok.jpg
+coverImage : https://res.cloudinary.com/di1kjinja/image/upload/v1677329585/first_visit/seoul_hanok.jpg
+
 ---
 
 En route vers le pays des K-Dramas et du poulet frit! Toutes nos aventures en Corée du Sud par ici!

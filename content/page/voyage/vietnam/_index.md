@@ -11,7 +11,8 @@ keywords:
 comments:       false
 showMeta:       false
 showActions:    false
-#thumbnailImage: //example.com/image.jpg
+thumbnailImage: https://res.cloudinary.com/di1kjinja/image/upload/v1684936482/Delta/floating_7.jpg
+coverImage: https://res.cloudinary.com/di1kjinja/image/upload/v1684936482/Delta/floating_7.jpg
 ---
 
 Après la Corée, nous partons maintenant explorer le Vietnam !
