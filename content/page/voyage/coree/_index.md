@@ -11,8 +11,8 @@ keywords:
 comments:       false
 showMeta:       false
 showActions:    false
-thumbnailImage: https://res.cloudinary.com/di1kjinja/image/upload/v1677329585/first_visit/seoul_hanok.jpg
-coverImage : https://res.cloudinary.com/di1kjinja/image/upload/v1677329585/first_visit/seoul_hanok.jpg
+thumbnailImage: https://res.cloudinary.com/di1kjinja/image/upload/q_auto/v1677329585/first_visit/seoul_hanok.jpg
+coverImage : https://res.cloudinary.com/di1kjinja/image/upload/q_auto/v1677329585/first_visit/seoul_hanok.jpg
 
 ---
 

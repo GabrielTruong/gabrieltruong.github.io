@@ -12,9 +12,9 @@ tags:
 comments:       true
 showMeta:       false
 showActions:    true
-thumbnailImage: https://res.cloudinary.com/di1kjinja/image/upload/v1676711662/bagage.jpg
+thumbnailImage: https://res.cloudinary.com/di1kjinja/image/upload/q_auto/v1676711662/bagage.jpg
 autoThumbnailImage : true
-coverImage: https://res.cloudinary.com/di1kjinja/image/upload/v1676711662/bagage.jpg
+coverImage: https://res.cloudinary.com/di1kjinja/image/upload/q_auto/v1676711662/bagage.jpg
 thumbnailImagePosition: "left"
 ---
 
