@@ -14,7 +14,7 @@ showMeta:       false
 showActions:    true
 coverImage: https://res.cloudinary.com/di1kjinja/image/upload/q_auto/v1677585917/Gwangjang/gwangjang_food.jpg
 thumbnailImage: https://res.cloudinary.com/di1kjinja/image/upload/q_auto/v1677585917/Gwangjang/gwangjang_food.jpg
-thumbnailImagePosition: "left"
+thumbnailImagePosition: "bottom"
 ---
 ## Gwangjang Market
 

@@ -14,7 +14,7 @@ showMeta:       false
 showActions:    true
 coverImage: https://res.cloudinary.com/di1kjinja/image/upload/q_auto/v1678364753/Suncheon/Teafield.jpg
 thumbnailImage: https://res.cloudinary.com/di1kjinja/image/upload/q_auto/v1678364753/Suncheon/Teafield.jpg
-thumbnailImagePosition: "left"
+thumbnailImagePosition: "bottom"
 ---
 Nous continuons notre descente vers le sud en passant par la ville de Suncheon. Cette ville est connue pour sa réserve naturelle et sa proximité avec la ville de Boseong qui abrite la plus grande plantation de thé du pays. C’est pour cette deuxième raison que nous nous rendons à Suncheon. 
 

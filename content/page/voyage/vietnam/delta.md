@@ -15,7 +15,7 @@ showMeta:       false
 showActions:    false
 coverImage: https://res.cloudinary.com/di1kjinja/image/upload/q_auto/v1684936448/Delta/floating_11.jpg
 thumbnailImage: https://res.cloudinary.com/di1kjinja/image/upload/q_auto/v1684936448/Delta/floating_11.jpg
-thumbnailImagePosition: "left"
+thumbnailImagePosition: "bottom"
 ---
 
 # Présentation du road trip

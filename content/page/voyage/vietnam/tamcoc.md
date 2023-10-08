@@ -15,7 +15,7 @@ showMeta:       false
 showActions:    false
 coverImage: https://res.cloudinary.com/di1kjinja/image/upload/q_auto/v1680165749/tamcoc/pub_homestay.jpg
 thumbnailImage: https://res.cloudinary.com/di1kjinja/image/upload/q_auto/v1680165746/tamcoc/boat.jpg
-thumbnailImagePosition: "left"
+thumbnailImagePosition: "bottom"
 ---
 
 Nous avons arpenté pendant 3 jours, ce qu’on appelle la Baie d’Halong terrestre. Celle-ci se situe non loin de la ville de Ninh Binh mais nous restons dans la petite ville de Tam Coc (la ville est au centre de la baie). 

@@ -14,7 +14,7 @@ showMeta:       false
 showActions:    true
 coverImage: https://res.cloudinary.com/di1kjinja/image/upload/q_auto/v1677329584/first_visit/temple_cover.jpg
 thumbnailImage: https://res.cloudinary.com/di1kjinja/image/upload/q_auto/v1677329584/first_visit/palace_thumbnail.jpg
-thumbnailImagePosition: "left"
+thumbnailImagePosition: "bottom"
 ---
 
 ## **Deoksugung Palace**

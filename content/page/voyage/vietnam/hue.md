@@ -15,7 +15,7 @@ showMeta:       false
 showActions:    false
 coverImage: https://res.cloudinary.com/di1kjinja/image/upload/q_auto/v1680166325/Hué/imperial_entrance.jpg
 thumbnailImage: https://res.cloudinary.com/di1kjinja/image/upload/q_auto/v1680166325/Hué/imperial_entrance.jpg
-thumbnailImagePosition: "left"
+thumbnailImagePosition: "bottom"
 ---
 
 *L’article sur Hué sera assez court. La pluie nous a poussés à écourter notre séjour ici, nous avons préféré chercher le soleil plus au sud. Et nous sommes désolés pour ceux qui lisent ça et qui ont faim…*

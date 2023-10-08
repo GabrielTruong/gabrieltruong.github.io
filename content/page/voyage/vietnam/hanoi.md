@@ -14,7 +14,7 @@ showMeta:       false
 showActions:    false
 coverImage: https://res.cloudinary.com/di1kjinja/image/upload/q_auto/v1679668065/Hanoi/old_quarter.jpg
 thumbnailImage: https://res.cloudinary.com/di1kjinja/image/upload/q_auto/v1679668065/Hanoi/old_quarter.jpg
-thumbnailImagePosition: "left"
+thumbnailImagePosition: "bottom"
 ---
 
 

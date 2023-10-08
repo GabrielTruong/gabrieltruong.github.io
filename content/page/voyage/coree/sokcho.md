@@ -14,7 +14,7 @@ showMeta:       false
 showActions:    true
 coverImage: https://res.cloudinary.com/di1kjinja/image/upload/q_auto/v1677830964/Sokcho/Nice_seoraksan.jpg
 thumbnailImage: https://res.cloudinary.com/di1kjinja/image/upload/q_auto/v1677830964/Sokcho/Nice_seoraksan.jpg
-thumbnailImagePosition: "left"
+thumbnailImagePosition: "bottom"
 ---
 Nous avons décidé de quitter un peu Séoul et sommes allés visiter Sokcho à l’est pays et son parc national, le Seoraksan. 
 

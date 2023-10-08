@@ -14,7 +14,7 @@ showMeta:       false
 showActions:    true
 coverImage: https://res.cloudinary.com/di1kjinja/image/upload/q_auto/v1678273188/Bukhansan/summit.jpg
 thumbnailImage: https://res.cloudinary.com/di1kjinja/image/upload/q_auto/v1678273188/Bukhansan/summit.jpg
-thumbnailImagePosition: "left"
+thumbnailImagePosition: "bottom"
 ---
 
 De retour à Séoul, nous avions une dernière mission. Gravir le mont *Baegundae*, le plus haut pic du *Bukhansan* National Park. 

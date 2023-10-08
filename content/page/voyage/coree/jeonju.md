@@ -14,7 +14,7 @@ showMeta:       false
 showActions:    true
 coverImage: https://res.cloudinary.com/di1kjinja/image/upload/q_auto/v1678263003/Jeonju/hanok_village.jpg
 thumbnailImage: https://res.cloudinary.com/di1kjinja/image/upload/q_auto/v1678263003/Jeonju/hanok_village.jpg
-thumbnailImagePosition: "left"
+thumbnailImagePosition: "bottom"
 ---
 
 Après 10 jours passés à Séoul, il était temps pour nous de voir d’autres choses. Nous sommes donc parti pour la ville de Jeonju, notamment connu pour son grand *************Hanok village*************. 

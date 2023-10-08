@@ -14,7 +14,7 @@ showMeta:       false
 showActions:    true
 coverImage: https://res.cloudinary.com/di1kjinja/image/upload/q_auto/v1679235278/Busan/IMG_20230310_144233_ealymp.jpg
 thumbnailImage: https://res.cloudinary.com/di1kjinja/image/upload/q_auto/v1679235278/Busan/IMG_20230310_144233_ealymp.jpg
-thumbnailImagePosition: "left"
+thumbnailImagePosition: "bottom"
 ---
 
 Nous voici dans la dernière partie de notre aventure en Corée. Nous avons passé une semaine à Busan, deuxième ville de Corée. Nous avons également fait un aller-retour sur deux jours à Gyeongju, ancienne capitale du royaume de Silla. 

@@ -15,7 +15,7 @@ showMeta:       false
 showActions:    false
 coverImage: https://res.cloudinary.com/di1kjinja/image/upload/q_auto/v1684683964/SongCau/cover_article.jpg
 thumbnailImage: https://res.cloudinary.com/di1kjinja/image/upload/q_auto/v1684683964/SongCau/cover_article.jpg
-thumbnailImagePosition: "left"
+thumbnailImagePosition: "bottom"
 ---
 
 *Après une grosse période de laisser aller, nous reprenons l’écriture de nos aventures. Nous sommes entrain de rattraper tous les articles en retard !* 

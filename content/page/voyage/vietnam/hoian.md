@@ -15,7 +15,7 @@ showMeta:       false
 showActions:    false
 coverImage: https://res.cloudinary.com/di1kjinja/image/upload/q_auto/v1680612004/hoian/rice_fields.jpg
 thumbnailImage: https://res.cloudinary.com/di1kjinja/image/upload/q_auto/v1680612012/hoian/river_hoian.jpg
-thumbnailImagePosition: "left"
+thumbnailImagePosition: "bottom"
 ---
 
 Ça y est il fait beau et chaud, nous sommes arrivés dans la ville de Hoi An. Nous sommes restés 5 jours et on va essayer de vous expliquer ce qu’il y a de si bien ici ! 

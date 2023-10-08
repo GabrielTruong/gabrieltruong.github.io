@@ -14,7 +14,7 @@ showMeta:       false
 showActions:    false
 coverImage: https://res.cloudinary.com/di1kjinja/image/upload/q_auto/v1679668857/Sapa/first_riziere.jpg
 thumbnailImage: https://res.cloudinary.com/di1kjinja/image/upload/q_auto/v1679668857/Sapa/first_riziere.jpg
-thumbnailImagePosition: "left"
+thumbnailImagePosition: "bottom"
 ---
 
 Nous quittons Hanoi pour rejoindre le nord du Vietnam. Pour y aller, nous prenons notre premier bus de nuit (bus couchette). Au Vietnam, le réseau de bus est très développé et propose différentes catégories. Parmi elles, les bus dits “limousine” proposent une couchette où on peut s’allonger (pas si on est trop grand) avec un rideau pour s’isoler. C’est un peu le business class du bus. 
