@@ -15,7 +15,7 @@ showMeta:       false
 showActions:    false
 coverImage: https://res.cloudinary.com/di1kjinja/image/upload/q_auto/v1684764390/Dalat/PongourTop.jpg
 thumbnailImage: https://res.cloudinary.com/di1kjinja/image/upload/q_auto/v1684764390/Dalat/PongourTop.jpg
-thumbnailImagePosition: "left"
+thumbnailImagePosition: "bottom"
 ---
 
 Comme souvent avec les bus de nuits vietnamiens, ils arrivent toujours trop tôt. En partant de Song Cau, nous devions arriver à Da Lat à 6h. Nous sommes arrivés à 4h du matin. Après une petite frayeur due à mon téléphone oublié dans le bus, nous avons fini notre nuit sur les bancs de la gare routière. Le plus dur a été la température. Nous étions habitués à des températures tropicales mais à Da Lat, au coeur des montagnes du centre du Vietnam, il faisait moins de 15 degrés. 
