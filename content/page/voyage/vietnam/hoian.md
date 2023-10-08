@@ -138,7 +138,7 @@ Pas mal d’adresses où l’on sur des tabourets en plastiques mais celles-ci n
 
 ## Notre avis
 
-Nous avons adoré, tout le monde adore et vous allez adoré Hoi An. Il y’a beaucoup d’autres activités que nous n’avons pas eu le temps ou envie de faire comme les sorties culturelles au sanctuaire de My Son, Snorkeling sur les îles Cham, cours de cuisine, coconut boat. 
+Nous avons adoré, tout le monde adore et vous allez adorer Hoi An. Il y’a beaucoup d’autres activités que nous n’avons pas eu le temps ou envie de faire comme les sorties culturelles au sanctuaire de My Son, Snorkeling sur les îles Cham, cours de cuisine, coconut boat. 
 
 Nous avons bien fais de rester longtemps ici tant la ville est agréable. Notre journée idéale ici: le matin balade à vélo dans la campagne et arrivés à la plage dans l’aprem. Ne rien faire sur un hamac et boire une noix de coco. Passer la soirée dans le vieux quartier et MANGER. 
 
